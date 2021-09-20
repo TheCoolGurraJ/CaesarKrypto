@@ -1,0 +1,10 @@
+C:\Users\gustav.jonsson12\source\repos\Caesarkrypto\bin\Debug\Caesarkrypto.exe.config
+C:\Users\gustav.jonsson12\source\repos\Caesarkrypto\bin\Debug\Caesarkrypto.exe
+C:\Users\gustav.jonsson12\source\repos\Caesarkrypto\bin\Debug\Caesarkrypto.pdb
+C:\Users\gustav.jonsson12\source\repos\Caesarkrypto\obj\Debug\Caesarkrypto.csprojAssemblyReference.cache
+C:\Users\gustav.jonsson12\source\repos\Caesarkrypto\obj\Debug\Caesarkrypto.Form1.resources
+C:\Users\gustav.jonsson12\source\repos\Caesarkrypto\obj\Debug\Caesarkrypto.Properties.Resources.resources
+C:\Users\gustav.jonsson12\source\repos\Caesarkrypto\obj\Debug\Caesarkrypto.csproj.GenerateResource.cache
+C:\Users\gustav.jonsson12\source\repos\Caesarkrypto\obj\Debug\Caesarkrypto.csproj.CoreCompileInputs.cache
+C:\Users\gustav.jonsson12\source\repos\Caesarkrypto\obj\Debug\Caesarkrypto.exe
+C:\Users\gustav.jonsson12\source\repos\Caesarkrypto\obj\Debug\Caesarkrypto.pdb
